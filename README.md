@@ -1,8 +1,6 @@
 # welcome
-Indoc for new brigade members (first hacknight)
-=======
 
-Lets put ideas and resources here, and once we have enough for a page, we can create it as welcome.c4hrva.us.
+Indoc for new brigade members (first hacknight). Lets put ideas and resources here, and once we have enough for a page, we can create it as welcome.c4hrva.us in gh-pages branch.
 
 ## Purpose/goals
  * three different audiences: 
