@@ -28,5 +28,5 @@ Paragraph on our purpose, with links to read pages at CfA and Brigade sites.
 
 ## Calls to Action
 
-## Contact Us
+## [Contact Us](#contact)
 This sites creator was Bret Fisher, but many others help to keep it awesome. You can file a issue/request in our bug tracker, join our email group and discuss there, find us on twitter using #cfabrigade, or just email bret@codeforamerica.org
