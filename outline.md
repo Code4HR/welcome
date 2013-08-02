@@ -38,6 +38,7 @@ brand: Outline
  * View our projects, what do they mean, describe major sections of each project: repo, issues, wiki, etc.
  * How to favorite, follow discussions, etc.
  * http://try.github.io
+ * http://youtu.be/gp6v7AXQQTY - Git for Humans (13min)
  * focus less on Git here, maybe put some about it in Coding below
 
 ### Coding
