@@ -13,13 +13,15 @@ brand: Outline
     * people new on meetup.com
     * people new to physical hangout
     * people that stumble to codeforhamptonroads.org and want more info
- * help reduce the work on the rest of the group each week for indoc of new visitors
- * cut down on the number of people thinking we'll teach them how to code. We teach people to fish by giving them all the links and oportunites to learn, but we're not hear to train/present on coding. Give them the resources to learn on their own, and welcome them to the group if they still want to help. Be clear that we are not a education provider (but we do a lot of learning and sharing every week!).
+ * help reduce the work on the rest of the group each week for indoc of new visitors.
+ * don't recreate content that's found elsewhere. Give a intro and context and link to. This is one part syllabus and one part faq.
+ * limit the unique-to-our-brigade info. For that we can just link them to our homepage. The hope here is we can make this good enough and maybe generic enough that it's useful for all brigades.
+ * cut down on the number of people thinking we'll teach them how to code. We teach people to fish by giving them all the links and opportunities to learn, but we're not hear to train/present on coding. Give them the resources to learn on their own, and welcome them to the group if they still want to help. Be clear that we are not a education provider (but we do a lot of learning and sharing every week!).
 
 ## Outline
 
 ### Purpose and Foundation
- * snip some text from our homepage, brigade site, and cfa
+ * snip some text from our homepage, brigade site, and cfa, but don't plagiarize. If other sites have significant content, give a intro and link to it rather then copy.
  * background on cfa and brigade
  * what is civic hacking
 
@@ -46,7 +48,7 @@ brand: Outline
  * They can build something new, or help with any existing project
  * We have plenty of things that need help
  * Experienced: Some use the language they know, some want to learn a new lang
- * point to online courses, free prefered, list others as well
+ * point to online courses, free preferred, list others as well
  * http://www.codeschool.com
  * http://www.codecademy.com
  * http://www.codeyear.com
