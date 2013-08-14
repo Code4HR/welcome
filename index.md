@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome - Intro for new Brigade members at a Code for Hampton Roads Hack Night
+brigade: Code for Hampton Roads
 author: Code for Hampton Roads, a Code for America Brigade
 desc: Intro for new Brigade members at a Code for Hampton Roads Hack Night
 brand: C4HRVA
@@ -14,10 +14,10 @@ contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
 ---
 
-# Welcome to Code for Hampton Roads
+# Welcome - Intro for new Bridgade members for {{page.title}}
 A Code for America Volunteer Brigade
 
-Glad you could make it to our hacknight. This page is full of information and links for the Brigade beginner. We hope you likes it, and hopes you return to the next hacknight.
+Glad you could make it to our hacknight. This page is full of information and links for the Brigade beginner. We hope you like it return to the next hacknight.
 
 ## Purpose and Foundation
 
