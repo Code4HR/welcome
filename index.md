@@ -14,14 +14,16 @@ contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
 ---
 
-# Welcome - Intro for new Bridgade members for {{page.title}}
+# Welcome - Intro for new Bridgade members for {{page.brigade}}
 A Code for America Volunteer Brigade
 
 Glad you could make it to our hacknight. This page is full of information and links for the Brigade beginner. We hope you like it return to the next hacknight.
 
 ## Purpose and Foundation
 
-Paragraph on our purpose, with links to read pages at CfA and Brigade sites.
+Code for America aims to improve the relationships between citizens and government. We help governments restructure to create low-risk settings for innovation, engage citizens to create better services, and support ongoing competition in the govtech marketplace.
+
+ on our purpose, with links to read pages at CfA and Brigade sites.
 
  * bullets on things we care about
  * more bullets
