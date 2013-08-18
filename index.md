@@ -8,7 +8,7 @@ webchat-url: http://webchat.freenode.net/?channels=codeforva&uio=d4
 google-group-url: https://groups.google.com/a/codeforamerica.org/forum/#!forum/c4hrva
 meetup-url: http://www.meetup.com/Code-for-Hampton-Roads/
 twitter-hashtag: #cfabrigade
-[github-url]: https://github.com/c4hrva/
+github-url: https://github.com/c4hrva/
 forum: email://c4hrva@codeforamerica.org
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
@@ -36,6 +36,7 @@ Code for America aims to improve the relationships between citizens and governme
    
   * Civic hacking is part of what we do at Code for America.
 
+
 Some notable brigade achievements this last year and the momentum continues.
  
 * Connected 1800 people, growing at about 25 per week, to a national network of, by, and for civic tech volunteers
@@ -55,7 +56,7 @@ We gather for weekly hacknights organized on meetup.com ({{page.meetup-url}}). B
 
 Github {{page.github-url}}
 
-IRC via webchat  [{{page.webchat-url}}]
+IRC via webchat  <a href={{page.webchat-url}}</a>
 
 Forum  {{page.forum}}
 
