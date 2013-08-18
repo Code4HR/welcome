@@ -54,11 +54,9 @@ Some notable brigade achievements this last year and the momentum continues.
 ## Communications and Events
 We gather for weekly hacknights organized on meetup.com ({{page.meetup-url}}). Bring your laptop/tablets as it's typically a working group with the occasional presentation.  The hacknights are also hosted on google hangouts for virtual participants.  
 
-Github [test]({{page.github-url}})
+Github [{{page.github-url}}]({{page.github-url}})
 
-IRC via webchat  <a href="{{page.webchat-url}}"test</a>
-<a href="http://example.com" title="example">example</a>
-<a href="{{page.webchat-url}}" title="example">example</a>
+IRC via webchat  <a href="{{page.webchat-url}}"{{page.webchat-url}}</a>
 
 Forum  {{page.forum}}
 
