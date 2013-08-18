@@ -8,7 +8,7 @@ webchat-url: http://webchat.freenode.net/?channels=codeforva&uio=d4
 google-group-url: https://groups.google.com/a/codeforamerica.org/forum/#!forum/c4hrva
 meetup-url: http://www.meetup.com/Code-for-Hampton-Roads/
 twitter-hashtag: #cfabrigade
-github-url: https://github.com/c4hrva/
+[github-url]: https://github.com/c4hrva/
 forum: email://c4hrva@codeforamerica.org
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
@@ -55,7 +55,7 @@ We gather for weekly hacknights organized on meetup.com ({{page.meetup-url}}). B
 
 Github {{page.github-url}}
 
-IRC via webchat  {{page.webchat-url}}
+IRC via webchat  [{{page.webchat-url}}]
 
 Forum  {{page.forum}}
 
