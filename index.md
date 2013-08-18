@@ -34,8 +34,7 @@ Code for America aims to improve the relationships between citizens and governme
     
   * Civic hacking is about coders, designers and other technologists using their skills to make positive contributions to their neighborhoods, communities, and cities.
    
-  * Civic hacking is part of what we do at Code for America.
-<br/>
+  * Civic hacking is part of what we do at Code for America.  
 
 Some notable brigade achievements this last year and the momentum continues.
  
@@ -56,9 +55,9 @@ We gather for weekly hacknights organized on meetup.com ({{page.meetup-url}}). B
 
 Github [{{page.github-url}}]({{page.github-url}})
 
-IRC via webchat  <a href="{{page.webchat-url}}"{{page.webchat-url}}</a>
+IRC via webchat [{{page.webchat-url}}]({{page.webchat-url}})
 
-Forum  {{page.forum}}
+Forum  [{{page.forum}}]({{page.forum}})
 
 To be continued ...
 
