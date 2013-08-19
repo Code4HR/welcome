@@ -35,7 +35,7 @@ Code for America aims to improve the relationships between citizens and governme
   * Civic hacking is about coders, designers and other technologists using their skills to make positive contributions to their neighborhoods, communities, and cities.
    
   * Civic hacking is part of what we do at Code for America.  
-
+<p><p>
 Some notable brigade achievements this last year and the momentum continues.
  
 * Connected 1800 people, growing at about 25 per week, to a national network of, by, and for civic tech volunteers
