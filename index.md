@@ -53,7 +53,7 @@ Some notable brigade achievements this last year and the momentum continues.
 ## Culture
 
 ## Communications and Events
-We gather for weekly hacknights organized on meetup.com ({{page.meetup-url}}). Bring your laptop/tablets as it's typically a working group with the occasional presentation.  The hacknights are also hosted on google hangouts for virtual participants.  
+We gather for weekly hacknights organized on meetup.com ([{{page.meetup-url}}]({{page.meetup-url}})). Bring your laptop/tablets as it's typically a working group with the occasional presentation.  The hacknights are also hosted on google hangouts for virtual participants.  
 
 Github [{{page.github-url}}]({{page.github-url}})
 
