@@ -36,7 +36,7 @@ Code for America aims to improve the relationships between citizens and governme
    
   * Civic hacking is part of what we do at Code for America.  
 
-<br/><br/>
+<br/>
 
 Some notable brigade achievements this last year and the momentum continues.
  
