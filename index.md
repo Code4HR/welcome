@@ -69,7 +69,7 @@ We choose projects based on:
 
 ## Get Connected
 
-* Sign up on the Brigade web site: [{{http://brigade.codeforamerica.org/members/sign_up}}]({{http://brigade.codeforamerica.org/members/sign_up}})
+* Sign up on the Brigade web site: [{{http://brigade.codeforamerica.org/members/sign_up}}](test)
 
 * Join our Meetup: [{{page.meetup-url}}]({{page.meetup-url}})
 
