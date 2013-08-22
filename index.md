@@ -2,7 +2,6 @@
 layout: default
 local-chapter-name: Code for Hampton Roads
 location: Hampton Roads
-
 desc: Intro for new Brigade members at a Code for Hampton Roads Hack Night
 brand: C4HRVA
 homepage-url: http://codeforhamptonroads.org
@@ -25,7 +24,7 @@ We are {{local-chapter-name}}, the local chapter of Code for America Brigade sup
 ## Who This is For
 Anyone who wants to apply their technology skills toward civic engagement, community service, open government and open civic data.
 
-##What to Expect
+## What to Expect
 You can learn ways in which you can apply your skills toward civic engagement, community service, open government and open, civic data.
 
 * You can find civic technology projects to join.
@@ -67,6 +66,7 @@ We choose projects based on:
 * Things happening in other cities that we want to bring here
 
 * Things we like
+
 ## Get Connected
 
 * Sign up on the Brigade web site: http://brigade.codeforamerica.org/members/sign_up
