@@ -15,11 +15,11 @@ email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
 ---
-# Welcome to Code for America Brigade and {{local-chapter-name}}!
+# Welcome to Code for America Brigade and {{page.local-chapter-name}}!
 
 Code for America Brigade is an organizing force for local civic engagement - a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
 
-We are {{local-chapter-name}}, the local chapter of Code for America Brigade supporting civic hacking in {{location}}.
+We are {{page.local-chapter-name}}, the local chapter of Code for America Brigade supporting civic hacking in {{page.location}}.
 
 ## Who This is For
 Anyone who wants to apply their technology skills toward civic engagement, community service, open government and open civic data.
@@ -51,7 +51,7 @@ You can learn ways in which you can apply your skills toward civic engagement, c
 
 ## How it Works
 
-We meet in person on a regular basis at {{location}}. We use Meetup for organizing in-person events. Our schedule is [SCHEDULE]. We connect online through [Meetup, Facebook, Google Plus, Google Group].
+We meet in person on a regular basis at {{page.location}}. We use Meetup for organizing in-person events. Our schedule is [SCHEDULE]. We connect online through [Meetup, Facebook, Google Plus, Google Group].
 
 ## How decisions are made
 
@@ -76,11 +76,17 @@ We choose projects based on:
 * Join our Forum: [URL]
 
 ## Get Smart
+
 * Brigade One-Pager
+
 * Brigade Slide Deck
+
 * Civic Hacking 101 Video
+
 * How to Hack Night Video
+
 * Do’s and Dont’s
+
 * What We Know [coming soon]
 
 <br/>
