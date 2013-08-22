@@ -2,6 +2,9 @@
 layout: default
 local-chapter-name: Code for Hampton Roads
 location: Hampton Roads
+meetup-location: alternating locations in Virginia Beach and Norfolk
+communication: Meetup, Facebook, Google Plus, Google Group, & Google Hangouts
+schedule: weekly from 6:00-9:00 pm on Wednesdays.
 desc: Intro for new Brigade members at a Code for Hampton Roads Hack Night
 brand: C4HRVA
 homepage-url: http://codeforhamptonroads.org
@@ -10,7 +13,7 @@ google-group-url: https://groups.google.com/a/codeforamerica.org/forum/#!forum/c
 meetup-url: http://www.meetup.com/Code-for-Hampton-Roads/
 twitter-hashtag: #cfabrigade
 github-url: https://github.com/c4hrva/
-forum: email://c4hrva@codeforamerica.org
+forum: https://groups.google.com/a/codeforamerica.org/forum/#!forum/c4hrva
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
@@ -51,7 +54,7 @@ You can learn ways in which you can apply your skills toward civic engagement, c
 
 ## How it Works
 
-We meet in person on a regular basis at {{page.location}}. We use Meetup for organizing in-person events. Our schedule is [SCHEDULE]. We connect online through [Meetup, Facebook, Google Plus, Google Group, Google Hangouts].
+We meet in person on a regular basis at {{page.meetup-location}}. We use Meetup for organizing in-person events. Our schedule is {{page.schedule}}. We connect online through {{page.communication}}.
 
 ## How decisions are made
 
@@ -77,29 +80,20 @@ We choose projects based on:
 
 ## Get Smart
 
-* Brigade One-Pager
+* [Brigade One-Pager](https://docs.google.com/document/d/1OY0s8BJR9A2aW1ivlNACTbi0dWOh9njYpHp53G1shFs/edit)
 
-* Brigade Slide Deck
+* [Brigade Slide Deck](https://docs.google.com/presentation/d/1MSyVMauTv4HcPcgXmF2l-Afzjw35UfieCj5mKDK7fvY/edit#slide=id.p)
 
-* Civic Hacking 101 Video
+* [Civic Hacking 101 Video](http://www.youtube.com/watch?v=wH6LnW_qjeI)
 
-* How to Hack Night Video
+* [How to Hack Night Video](http://www.youtube.com/watch?v=ge6AQVG36mQ)
 
-* Do’s and Dont’s
+* [Do’s](http://www.codeforamerica.org/2013/01/23/do-this-lessons-from-brigade-year-one/) and [Dont’s](http://www.codeforamerica.org/2013/02/27/lessons-learned-from-brigade-year-one-dont-do-this/)
 
 * What We Know [coming soon]
 
 <br/>
 __________________________
-
-## Communications and Events
-We gather for weekly hacknights organized on meetup.com ([{{page.meetup-url}}]({{page.meetup-url}})). Bring your laptop/tablets as it's typically a working group with the occasional presentation.  The hacknights are also hosted on google hangouts for virtual participants.  
-
-Github [{{page.github-url}}]({{page.github-url}})
-
-IRC via webchat [{{page.webchat-url}}]({{page.webchat-url}})
-
-Forum  [{{page.forum}}]({{page.forum}})
 
 <h2 id="contact">Contact Us</h2>
 This sites creator was {{page.contact-name}}, but many others help to keep it awesome. You can file a issue/request in our bug tracker, join our email group and discuss there, find us on twitter using #cfabrigade, or just email [{{page.email-contact}}](mailto:{{page.email-contact}})
