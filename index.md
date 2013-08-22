@@ -1,6 +1,8 @@
 ---
 layout: default
-brigade: Code for Hampton Roads
+local-chapter-name: Code for Hampton Roads
+location: Hampton Roads
+
 desc: Intro for new Brigade members at a Code for Hampton Roads Hack Night
 brand: C4HRVA
 homepage-url: http://codeforhamptonroads.org
@@ -14,43 +16,75 @@ email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
 ---
+# Welcome to Code for America Brigade and {{local-chapter-name}}!
 
-# Welcome - Intro for new Bridgade members for {{page.brigade}}
-A Code for America Volunteer Brigade
+Code for America Brigade is an organizing force for local civic engagement - a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
 
-Glad you could make it to our hacknight. This page is full of information and links for the Brigade beginner. We hope you like it and return to the next hacknight.
+We are {{local-chapter-name}}, the local chapter of Code for America Brigade supporting civic hacking in {{location}}.
 
-## Purpose and Foundation
+## Who This is For
+Anyone who wants to apply their technology skills toward civic engagement, community service, open government and open civic data.
 
-Code for America aims to improve the relationships between citizens and government. We help governments restructure to create low-risk settings for innovation, engage citizens to create better services, and support ongoing competition in the govtech marketplace.
- 
-* We brainstorm and implement ways to use public data to build apps that help solve city problems and foster open government.
+##What to Expect
+You can learn ways in which you can apply your skills toward civic engagement, community service, open government and open, civic data.
 
-* We sponsor activities including hackathons, write-a-thons, unconferences, open data activities, and meetups.
- 
-* We are __Civic Hackers__... and what is Civic Hacking?
-   
-  * Hacking is about finding new ways to get stuff done, often through constraints and limited resources. It’s also about finding new uses for old designs.
-    
-  * Civic hacking is about coders, designers and other technologists using their skills to make positive contributions to their neighborhoods, communities, and cities.
-   
-  * Civic hacking is part of what we do at Code for America.  
+* You can find civic technology projects to join.
+
+* You can hack-a-thon.
+
+* You can connect with local government and community organizations on civic tech.
+
+* You can play with open, civic data.
+
+* You can hang out with other civic hackers, eat pizza and drink beverages.
+
+## What Not to Expect
+
+* You can pick up expert advice, tips and tricks about new technologies but we are not a tech meetup.
+
+* You can meet a lot of new and interesting people and make useful connections but we are not a networking group.
+
+* You can learn a lot of things about coding and design by participating in Brigade but we are not a code or design school.
+
+## Who’s in Charge
+    [NAME], Co-Captain
+    [NAME], Co-Captain
+
+## How it Works
+
+We meet in person on a regular basis at {{location}}. We use Meetup for organizing in-person events. Our schedule is [SCHEDULE]. We connect online through [Meetup, Facebook, Google Plus, Google Group].
+
+## How decisions are made
+
+We use the Lazy Consensus model from Apache.
+
+## How projects are chosen
+
+We choose projects based on:
+
+* Needs we identify through listening sessions with local gov and community organizations
+
+* Things happening in other cities that we want to bring here
+
+* Things we like
+## Get Connected
+
+* Sign up on the Brigade web site: http://brigade.codeforamerica.org/members/sign_up
+
+* Join our Meetup: [URL]
+
+* Join our Forum: [URL]
+
+## Get Smart
+* Brigade One-Pager
+* Brigade Slide Deck
+* Civic Hacking 101 Video
+* How to Hack Night Video
+* Do’s and Dont’s
+* What We Know [coming soon]
 
 <br/>
-
-Some notable brigade achievements this last year and the momentum continues.
- 
-* Connected 1800 people, growing at about 25 per week, to a national network of, by, and for civic tech volunteers
- 
-* Twenty cities began meeting regularly, at least once per month, but most meet weekly
- 
-* At least 45 open source, civic tech apps were redeployed
- 
-* Thousands of datasets were made more accessible online
- 
-* Scores of representatives from dozens of municipal governments opened up to our community and created with us a new form of civic engagement
-
-## Culture
+__________________________
 
 ## Communications and Events
 We gather for weekly hacknights organized on meetup.com ([{{page.meetup-url}}]({{page.meetup-url}})). Bring your laptop/tablets as it's typically a working group with the occasional presentation.  The hacknights are also hosted on google hangouts for virtual participants.  
@@ -60,14 +94,6 @@ Github [{{page.github-url}}]({{page.github-url}})
 IRC via webchat [{{page.webchat-url}}]({{page.webchat-url}})
 
 Forum  [{{page.forum}}]({{page.forum}})
-
-To be continued ...
-
-## GitHub
-
-## Coding
-
-## Calls to Action
 
 <h2 id="contact">Contact Us</h2>
 This sites creator was {{page.contact-name}}, but many others help to keep it awesome. You can file a issue/request in our bug tracker, join our email group and discuss there, find us on twitter using #cfabrigade, or just email [{{page.email-contact}}](mailto:{{page.email-contact}})
