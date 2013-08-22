@@ -51,11 +51,11 @@ You can learn ways in which you can apply your skills toward civic engagement, c
 
 ## How it Works
 
-We meet in person on a regular basis at {{page.location}}. We use Meetup for organizing in-person events. Our schedule is [SCHEDULE]. We connect online through [Meetup, Facebook, Google Plus, Google Group].
+We meet in person on a regular basis at {{page.location}}. We use Meetup for organizing in-person events. Our schedule is [SCHEDULE]. We connect online through [Meetup, Facebook, Google Plus, Google Group, Google Hangouts].
 
 ## How decisions are made
 
-We use the Lazy Consensus model from Apache.
+We use the [Lazy Consensus]({{http://rave.apache.org/docs/governance/lazyConsensus.html}}) model from Apache.
 
 ## How projects are chosen
 
@@ -69,11 +69,11 @@ We choose projects based on:
 
 ## Get Connected
 
-* Sign up on the Brigade web site: http://brigade.codeforamerica.org/members/sign_up
+* Sign up on the Brigade web site: [{{http://brigade.codeforamerica.org/members/sign_up}}]({{http://brigade.codeforamerica.org/members/sign_up}})
 
-* Join our Meetup: [URL]
+* Join our Meetup: [{{page.meetup-url}}]({{page.meetup-url}})
 
-* Join our Forum: [URL]
+* Join our Forum: [{{page.forum}}]({{page.forum}})
 
 ## Get Smart
 
