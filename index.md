@@ -55,7 +55,7 @@ We meet in person on a regular basis at {{page.location}}. We use Meetup for org
 
 ## How decisions are made
 
-We use the [Lazy Consensus]({{http://rave.apache.org/docs/governance/lazyConsensus.html}}) model from Apache.
+We use the [Lazy Consensus](http://rave.apache.org/docs/governance/lazyConsensus.html) model from Apache.
 
 ## How projects are chosen
 
