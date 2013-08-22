@@ -19,7 +19,7 @@ repo-issues-url: https://github.com/c4hrva/welcome/issues
 
 Code for America Brigade is an organizing force for local civic engagement - a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
 
-We are [{{page.local-chapter-name}}]({{homepage-url}}), the local chapter of Code for America Brigade supporting civic hacking in {{page.location}}.
+We are [{{page.local-chapter-name}}]({{page.homepage-url}}), the local chapter of Code for America Brigade supporting civic hacking in {{page.location}}.
 
 ## Who This is For
 Anyone who wants to apply their technology skills toward civic engagement, community service, open government and open, civic data.
@@ -46,8 +46,8 @@ You can learn ways in which you can apply your skills toward civic engagement, c
 * You can learn a lot of things about coding and design by participating in Brigade but we are not a code or design school.
 
 ## Who’s in Charge
-* {{co-captain1}}, Co-Captain
-* {{co-captain2}}, Co-Captain
+* {{page.co-captain1}}, Co-Captain
+* {{page.co-captain2}}, Co-Captain
 
 ## How it Works
 
