@@ -105,8 +105,10 @@ We choose projects based on:
 ## Get Started
 
 Often you can start getting involved before the first meeting.
- * Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.  
- * Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  
+
+* Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.  
+
+* Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  
 
 * Software Development Resources
     * Free Amazon Hosting (time limited): http://aws.amazon.com/free/
