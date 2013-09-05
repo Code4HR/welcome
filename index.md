@@ -114,14 +114,14 @@ Often you can start getting involved before the first meeting.
 * Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  
 
 * Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interesting in software development, the web is full of excellent, free and (some) paid resources for learning. Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
-  * http://codeschool.com
-  * http://net.tutsplus.com
-  * http://jsforcats.com - JavaScript Basics
-  * https://github.com/maxogden/art-of-node#the-art-of-node - Art of Node
+  * [http://codeschool.com](http://codeschool.com)
+  * [http://net.tutsplus.com](http://net.tutsplus.com)
+  * [http://jsforcats.com](http://jsforcats.com) - JavaScript Basics
+  * [https://github.com/maxogden/art-of-node#the-art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node) - Art of Node
 
 
 * Web Hosting Resources
-    * Free Amazon Hosting (time limited): http://aws.amazon.com/free/
+    * Free Amazon Hosting (time limited): [http://aws.amazon.com/free/](http://aws.amazon.com/free/)
     * Free Heroku Hosting: 
 
 <h2 id="contact">Contact Us</h2>
