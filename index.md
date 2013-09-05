@@ -18,9 +18,7 @@ email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
 ---
-# <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-
-<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<img src="/favicon.ico" alt="Drawing" style="width: 200px;"/>
 
 # ![alt text](/favicon.ico) Welcome to {{page.local-chapter-name}}, a Code for America Brigade!
 
