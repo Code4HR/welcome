@@ -18,7 +18,7 @@ email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
 ---
-# Welcome to {{page.local-chapter-name}}, a Code for America Brigade!
+# <img src="/Brigade-Icon.png" alt="Drawing" style="width: 50px;"/> Welcome to {{page.local-chapter-name}}, a Code for America Brigade!
 
 Code for America Brigade is an organizing force for local civic digital engagement - a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
 
@@ -63,7 +63,7 @@ We meet in person on a regular basis at {{page.meetup-location}}. We use Meetup.
 
 ## Required Tools
 
-Bring your laptop/tablets as it's typically a working group with the occasional presentation.  Free wifi is provided.
+Bring your laptop/tablet as it's typically a working group with the occasional presentation.  Free wifi is provided.
 
 ## How Decisions Are Made
 
