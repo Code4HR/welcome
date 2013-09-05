@@ -61,6 +61,9 @@ You can learn ways in which you can apply your skills toward civic engagement, c
 
 We meet in person on a regular basis at {{page.meetup-location}}. We use Meetup.com for organizing in-person events. Our schedule is {{page.schedule}}. We connect online through {{page.communication}}.
 
+## Required Tools
+
+Bring your laptop/tablets as it's typically a working group with the occasional presentation.  Free wifi is provided.
 
 ## How Decisions Are Made
 
