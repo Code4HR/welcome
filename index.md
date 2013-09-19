@@ -127,6 +127,7 @@ Often you can start getting involved before the first meeting.
 * Web Hosting Resources
     * Free Amazon Hosting (time limited): [http://aws.amazon.com/free/](http://aws.amazon.com/free/)
     * Free Heroku Hosting: 
+    * Free Windows Azure Hosting: 
 
 <h2 id="contact">Contact Us</h2>
 This sites creator was {{page.contact-name}}, but many others help to keep it awesome. You can file a issue/request in our [bug tracker]({{page.repo-issues-url}}), join our email group and discuss there, find us on twitter using #cfabrigade, or just email [{{page.email-contact}}](mailto:{{page.email-contact}})
