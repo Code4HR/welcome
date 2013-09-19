@@ -22,27 +22,29 @@ repo-issues-url: https://github.com/c4hrva/welcome/issues
 A Code for America Brigade!
 ---------------------------
 
-Code for America Brigade is an organizing force for local civic digital engagement - a national network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
+Serve Your Community Through Civic Tech
+---------------------------------------
 
 We are [{{page.local-chapter-name}}]({{page.homepage-url}}), the local chapter of Code for America Brigade supporting civic hacking in {{page.location}}.
 
+Code for America Brigade brings together developers, designers, data geeks, civic leaders, organizers, and idea-makers from communities to help local government and civic organizations adopt open web technologies. Code for America Brigade is the volunteer arm of the larger, national organization Code for America.
 
 ## Who This is For
-Anyone who wants to apply their technology skills toward civic engagement, community service, open government and open, civic data.
+Anyone with a desire and a passion for applying their technology skills to improve our community, open government, and open civic data.
 
 
 ## What to Expect
-You can learn ways in which you can apply your skills toward civic engagement, community service, open government and open, civic data.
+You can apply your skills and expertise to work on an existing problem or project you care about like:
+* Improving park access
+* Helping the fire department locate fire hydrants
+* Launching a web app to find your city bus
+* Creating an app to help residents find information about your city
+* Helping residents get up-to-date information on the status of blighted properties in their community
+* Creating an app that allows parents to track their child’s bus in real time
 
-* You can find civic technology projects to join.
+Create apps. Design websites. Organize events. Write copy. And more! 
 
-* You can hack-a-thon.
-
-* You can connect with local government and community organizations on civic tech.
-
-* You can play with open, civic data.
-
-* You can hang out with other civic hackers, eat pizza and drink beverages.
+Hang out with other civic hackers, eat pizza and drink beverages.
 
 
 ## What Not to Expect
