@@ -35,24 +35,21 @@ Anyone with a desire and a passion for applying their technology skills to impro
 
 ## What to Expect
 You can apply your skills and expertise to work on an existing problem or project you care about like:
+
 * Improving park access
 * Helping the fire department locate fire hydrants
 * Launching a web app to find your city bus
 * Creating an app to help residents find information about your city
 * Helping residents get up-to-date information on the status of blighted properties in their community
 * Creating an app that allows parents to track their child’s bus in real time
-
-Create apps. Design websites. Organize events. Write copy. And more! 
-
-Hang out with other civic hackers, eat pizza and drink beverages.
+* Create apps. Design websites. Organize events. Write copy. And more! 
+* Hang out with other civic hackers, eat pizza and drink beverages.
 
 
 ## What Not to Expect
 
 * You can pick up expert advice, tips and tricks about new technologies but we are **not a tech meetup or user group**, and are usually working sessions not presentation format.
-
 * You can meet a lot of new and interesting people and make useful connections but we are **not a networking group**. We are volunteers working to make our community better through technology.
-
 * You can learn a lot of things about coding and design by participating in Brigade but we are **not a code or design school**.
 
 
