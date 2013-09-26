@@ -5,7 +5,7 @@ location: Hampton Roads
 desc: Indoc for new members to Code for Hampton Roads, a Code for America Brigade
 author: Brendan Barsness, Bret Fisher, Kevin Curry, and more
 web-page-title: New Attendee Resources for Code for Hampton Roads
-meetup-location: alternating locations in Virginia Beach and Norfolk
+meetup-location: ECPI University in Virginia Beach
 communication: Meetup, Facebook, Google Plus, Google Group, & Google Hangouts
 schedule: weekly from 6:00-9:00 pm on Wednesdays
 homepage-url: http://codeforhamptonroads.org
