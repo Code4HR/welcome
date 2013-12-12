@@ -113,6 +113,7 @@ Often you can start getting involved before the first meeting.
 * Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.  
 
 * Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  
+* [Our Github] (https://github.com/c4hrva)
 
 * Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interested in software development, the web is full of excellent, free and (some) paid resources for learning. Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
   * [http://codeschool.com](http://codeschool.com)
@@ -123,8 +124,9 @@ Often you can start getting involved before the first meeting.
 
 * Web Hosting Resources
     * Free Amazon Hosting (time limited): [http://aws.amazon.com/free/](http://aws.amazon.com/free/)
-    * Free Heroku Hosting: 
-    * Free Windows Azure Hosting: 
+    * Free Heroku Hosting: [https://www.heroku.com/](https://www.heroku.com/)
+    * Free Windows Azure Hosting: [http://www.windowsazure.com/en-us/](http://www.windowsazure.com/en-us/pricing/free-trial/)
+    * Free Github Static Pages [http://pages.github.com/](http://pages.github.com/)
 
 <h2 id="contact">Contact Us</h2>
 This sites creator was {{page.contact-name}}, but many others help to keep it awesome. You can file a issue/request in our [bug tracker]({{page.repo-issues-url}}), join our email group and discuss there, find us on twitter using #cfabrigade, or just email [{{page.email-contact}}](mailto:{{page.email-contact}})
