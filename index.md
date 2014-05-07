@@ -14,6 +14,7 @@ meetup-url: http://www.meetup.com/Code-for-Hampton-Roads/
 twitter-hashtag: #cfabrigade
 captain1: Kevin Curry
 captain2: Bret Fisher
+captain3: Stanley Zheng
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
@@ -42,7 +43,7 @@ You can apply your skills and expertise to work on an existing problem or projec
 * Creating an app to help residents find information about your city
 * Helping residents get up-to-date information on the status of blighted properties in their community
 * Creating an app that allows parents to track their child’s bus in real time
-* Create apps. Design websites. Organize events. Write copy. And more! 
+* Create apps. Design websites. Organize events. Write copy. And more!
 * Hang out with other civic hackers, eat pizza and drink beverages.
 
 
@@ -56,7 +57,7 @@ You can apply your skills and expertise to work on an existing problem or projec
 ## Who’s in Charge
 * {{page.captain1}}, Captain
 * {{page.captain2}}, Co-Captain
-
+* {{page.captain3}}, Co-Captain
 
 ## How it Works
 
@@ -68,7 +69,7 @@ Bring your laptop/tablet as it's typically a working group with the occasional p
 
 ## How Decisions Are Made
 
-We use the [Lazy Consensus](http://rave.apache.org/docs/governance/lazyConsensus.html) model, meaning that if you think it's right for the group you have a green light, so don't wait around for approval. Concerns can be asked, but if you don't get much feedback that's a good thing and you can rock on.
+We use the [Lazy Consensus](http://rave.apache.org/docs/governance/lazyConsensus.html) model, meaning that if you think it's right for the group you have a green light, so **don't wait around for approval**. Concerns can be asked, but if you don't get much feedback that's a good thing and you can rock on.
 
 
 ## How Projects Are Chosen
@@ -81,14 +82,29 @@ We choose projects based on:
 
 * Things we like.
 
+## Current Projects
+
+Our projects are usually centered around software at some point.
+Those are all listed in our [GitHub Organization](https://github.com/c4hrva).
+There are also non-programming tasks in our "task list" at http://tasks.c4hrva.us 
+
 
 ## Get Connected
 
-* Sign up on the Brigade web site: [http://brigade.codeforamerica.org/members/sign_up](http://brigade.codeforamerica.org/members/sign_up)
+* Sign up on the Brigade web site: [http://brigade.codeforamerica.org](http://brigade.codeforamerica.org)
 
 * Join our Meetup: [{{page.meetup-url}}]({{page.meetup-url}})
 
 * Join our Forum: [{{page.google-group-url}}]({{page.google-group-url}})
+
+
+## Get Inspired
+
+* Video of [CfA's founder inspiring at TED: Coding a Better Government](http://www.ted.com/talks/jennifer_pahlka_coding_a_better_government)
+
+* Video of [CfA Brigade's Director inspiring at TED: Why Good Hackers Make Good Citizens](http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens)
+
+* Video of [The Typical Hack Night in Chicago](http://gapersblock.com/thegrid/2014/04/01/open-gov-hack-night/)
 
 
 ## Get Smart
@@ -102,8 +118,6 @@ We choose projects based on:
 * [How to Hack Night Video](http://www.youtube.com/watch?v=ge6AQVG36mQ)
 
 * [Do’s](http://www.codeforamerica.org/2013/01/23/do-this-lessons-from-brigade-year-one/) and [Dont’s](http://www.codeforamerica.org/2013/02/27/lessons-learned-from-brigade-year-one-dont-do-this/)
-
-* What We Know [coming soon]
 
 
 ## Get Started
