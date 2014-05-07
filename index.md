@@ -86,7 +86,7 @@ We choose projects based on:
 
 Our projects are usually centered around software at some point.
 Those are all listed in our [GitHub Organization](https://github.com/c4hrva).
-There are also non-programming tasks in our "task list" at http://tasks.c4hrva.us 
+There are also non-programming tasks in our "task list" at [http://tasks.c4hrva.us](http://tasks.c4hrva.us) 
 
 
 ## Get Connected
