@@ -128,7 +128,9 @@ Often you can start getting involved before the first meeting.
 
 * Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  [Our Github] (https://github.com/c4hrva)
 
-* Learn how to use GitHub (and the git protocol): http://try.github.io/
+* Learn how to use GitHub: https://guides.github.com/activities/hello-world/
+
+* Learn how to use the Git version control protocol: http://try.github.io
 
 * Learn how the Web works: Basics of Web API's: https://zapier.com/learn/apis/#toc
 
