@@ -126,13 +126,13 @@ Often you can start getting involved before the first meeting.
 
 * Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.  
 
-* Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  [Our Github] (https://github.com/c4hrva)
+* Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  [Our Github](https://github.com/c4hrva)
 
-* Learn how to use GitHub: https://guides.github.com/activities/hello-world/
+* Learn how to use GitHub: (https://guides.github.com/activities/hello-world/)
 
-* Learn how to use the Git version control protocol: http://try.github.io
+* Learn how to use the Git version control protocol: (http://try.github.io)
 
-* Learn how the Web works: Basics of Web API's: https://zapier.com/learn/apis/#toc
+* Learn how the Web works: Basics of Web API's: (https://zapier.com/learn/apis/#toc)
 
 * Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interested in software development, the web is full of excellent, free and (some) paid resources for learning. Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
   * [http://codeschool.com](http://codeschool.com)
