@@ -140,6 +140,10 @@ Often you can start getting involved before the first meeting.
   * [http://jsforcats.com](http://jsforcats.com) - JavaScript Basics
   * [https://github.com/maxogden/art-of-node#the-art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node) - Art of Node
 
+* Learn to License.  Since civic hacking starts with open source software and usually encompasses free software as well, you'll need to understand the myriad of software licenses out there and how to apply them to your work.  Some resource suggestions:
+  * https://www.gnu.org/licenses/license-list.html - Various Licenses and Comments About Them
+  * https://www.gnu.org/licenses/license-recommendations.html - How to Choose a License for Your Own Work
+
 
 * Web Hosting Resources
     * Free Amazon Hosting (time limited): [http://aws.amazon.com/free/](http://aws.amazon.com/free/)
