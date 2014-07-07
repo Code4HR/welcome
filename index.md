@@ -134,13 +134,14 @@ Often you can start getting involved before the first meeting.
 
 * Learn how the Web works: Read [Basics of Web API's](https://zapier.com/learn/apis/#toc)
 
-* Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interested in software development, the web is full of excellent, free and (some) paid resources for learning. Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
+* Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interested in software development, the web is full of excellent, free and (some) paid resources for learning. We focus primarily on web sites and applications first (rather then iOS Apps or Android Apps, because *everyone* can use a web app). The web is made up of HTML, CSS, and JavaScript.  Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
   * [http://codeschool.com](http://codeschool.com)
   * [http://net.tutsplus.com](http://net.tutsplus.com)
   * [http://jsforcats.com](http://jsforcats.com) - JavaScript Basics
-  * [https://github.com/maxogden/art-of-node#the-art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node) - Art of Node
+  * [https://github.com/maxogden/art-of-node#the-art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node) - Art of Node.js
 
 * Learn to License.  Since civic hacking starts with open source software and usually encompasses free software as well, you'll need to understand the myriad of software licenses out there and how to apply them to your work.  Some resource suggestions:
+  * Easy way to quickly pick a license - http://choosealicense.com
   * [Various Licenses and Comments About Them] (https://www.gnu.org/licenses/license-list.html)
   * [How to Choose a License for Your Own Work] (https://www.gnu.org/licenses/license-recommendations.html)
 
