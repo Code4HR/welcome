@@ -5,7 +5,7 @@ location: Hampton Roads
 desc: Indoc for new members to Code for Hampton Roads, a Code for America Brigade
 author: Brendan Barsness, Bret Fisher, Kevin Curry, and more
 web-page-title: New Attendee Resources for Code for Hampton Roads
-meetup-location: ECPI University in Virginia Beach
+meetup-location: Hatch Norfolk
 communication: Meetup, Facebook, Google Plus, Google Group, & Google Hangouts
 schedule: weekly from 6:00-9:00 pm on Wednesdays
 homepage-url: http://codeforhamptonroads.org
@@ -15,6 +15,7 @@ twitter-hashtag: #cfabrigade
 captain1: Kevin Curry
 captain2: Bret Fisher
 captain3: Stanley Zheng
+captain4: Blaine Price
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/c4hrva/welcome/issues
@@ -58,6 +59,7 @@ You can apply your skills and expertise to work on an existing problem or projec
 * {{page.captain1}}, Captain
 * {{page.captain2}}, Co-Captain
 * {{page.captain3}}, Co-Captain
+* {{page.captain4}}, Co-Captain
 
 ## How it Works
 
@@ -86,7 +88,7 @@ We choose projects based on:
 
 Our projects are usually centered around software at some point.
 Those are all listed in our [GitHub Organization](https://github.com/c4hrva).
-There are also non-programming tasks in our "task list" at [http://tasks.c4hrva.us](http://tasks.c4hrva.us) 
+There are also non-programming tasks in our "task list" at [http://tasks.c4hrva.us](http://tasks.c4hrva.us)
 
 
 ## Get Connected
@@ -95,7 +97,7 @@ There are also non-programming tasks in our "task list" at [http://tasks.c4hrva.
 
 * Join our Meetup: [{{page.meetup-url}}]({{page.meetup-url}})
 
-* Join our Forum: [{{page.google-group-url}}]({{page.google-group-url}})
+* Join our Google Group Forum: [{{page.google-group-url}}]({{page.google-group-url}})
 
 
 ## Get Inspired
@@ -135,6 +137,9 @@ Often you can start getting involved before the first meeting.
 * Learn how the Web works: Read [Basics of Web API's](https://zapier.com/learn/apis/#toc)
 
 * Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interested in software development, the web is full of excellent, free and (some) paid resources for learning. We focus primarily on web sites and applications first (rather then iOS Apps or Android Apps, because *everyone* can use a web app). The web is made up of HTML, CSS, and JavaScript.  Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
+  * [Local User Group: HR .NET User Group - HRNUG](http://www.hrnug.org)
+  * [Local User Group: Norfolk.js - JavaScript](http://www.norfolkjs.org)
+  * [Local User Group: 757.rb](http://757rb.org)
   * [http://codeschool.com](http://codeschool.com)
   * [http://net.tutsplus.com](http://net.tutsplus.com)
   * [http://jsforcats.com](http://jsforcats.com) - JavaScript Basics
