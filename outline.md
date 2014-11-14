@@ -31,8 +31,8 @@ brand: Outline
 
 ### Communications and Events
  * hacknights! Bring your laptop/tablet as it's a working group not a presentation (usually).
- * core tools: google groups, meetup.com, irc, github, github, and oh, github
- * get them to signup for each key tool: meetup, google groups, try IRC via webchat
+ * core tools: google groups, meetup.com, irc and/or crypto.cat, github, github, and oh, github
+ * get them to signup for each key tool: meetup, google groups, try IRC via webchat and/or join the crypto.cat conversation
 
 ### GitHub
  * It's such a big part of everything we do, it deserves it's own section.
