@@ -54,8 +54,8 @@ brand: Outline
  * http://www.codeyear.com
  * HTML/CSS
  * Python
- * JavaScript/Nodejs
- * Ruby
+ * JavaScript/Nodejs: http://nodeschool.io
+ * Ruby: https://www.ruby-lang.org/en/documentation/
 
 ### Calls to Action
  * What else can we inspire them to do?
