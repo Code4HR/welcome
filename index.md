@@ -8,7 +8,7 @@ web-page-title: New Attendee Resources for Code for Hampton Roads
 meetup-location: Hatch Norfolk
 communication: Meetup, Facebook, Google Plus, Google Group, & Google Hangouts
 schedule: weekly from 6:00-9:00 pm on Wednesdays
-homepage-url: http://codeforhamptonroads.org
+homepage-url: http://code4hr.org/
 google-group-url: https://groups.google.com/a/codeforamerica.org/forum/#!forum/c4hrva
 meetup-url: http://www.meetup.com/Code-for-Hampton-Roads/
 twitter-hashtag: #cfabrigade
@@ -18,7 +18,7 @@ captain3: Stanley Zheng
 captain4: Blaine Price
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
-repo-issues-url: https://github.com/c4hrva/welcome/issues
+repo-issues-url: https://github.com/Code4HR/welcome/issues
 ---
 # <img src="/Brigade-Icon.png" alt="Drawing" style="width: 100px;"/> Welcome to {{page.local-chapter-name}}
 A Code for America Brigade!
@@ -128,7 +128,7 @@ Often you can start getting involved before the first meeting.
 
 * Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.  
 
-* Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  [Our Github](https://github.com/c4hrva)
+* Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  [Our Github](https://github.com/Code4HR)
 
 * [Learn how to use GitHub](https://guides.github.com/activities/hello-world/)
 
