@@ -9,8 +9,8 @@ meetup-location: Hatch Norfolk
 communication: Meetup, Facebook, Google Plus, Google Group, & Google Hangouts
 schedule: weekly from 6:00-9:00 pm on Wednesdays
 homepage-url: http://code4hr.org/
-google-group-url: https://groups.google.com/a/codeforamerica.org/forum/#!forum/c4hrva
-meetup-url: http://www.meetup.com/Code-for-Hampton-Roads/
+google-group-url: https://groups.google.com/a/codeforamerica.org/forum/#!forum/code4hr
+meetup-url: http://www.meetup.com/Code4HR/
 twitter-hashtag: #cfabrigade
 captain1: Kevin Curry
 captain2: Bret Fisher
@@ -19,6 +19,8 @@ captain4: Blaine Price
 email-contact: bret@codeforamerica.org
 contact-name: Bret Fisher
 repo-issues-url: https://github.com/Code4HR/welcome/issues
+github-organization-url: https://github.com/Code4HR
+task-list-url: http://tasks.code4hr.org
 ---
 # <img src="/Brigade-Icon.png" alt="Drawing" style="width: 100px;"/> Welcome to {{page.local-chapter-name}}
 A Code for America Brigade!
@@ -38,12 +40,12 @@ Anyone with a desire and a passion for applying their technology skills to impro
 ## What to Expect
 You can apply your skills and expertise to work on an existing problem or project you care about like:
 
-* Improving park access
-* Helping the fire department locate fire hydrants
-* Launching a web app to find your city bus
-* Creating an app to help residents find information about your city
-* Helping residents get up-to-date information on the status of blighted properties in their community
-* Creating an app that allows parents to track their child’s bus in real time
+* Improving park access.
+* Helping the fire department locate fire hydrants.
+* Launching a web app to find your city bus.
+* Creating an app to help residents find information about your city.
+* Helping residents get up-to-date information on the status of blighted properties in their community.
+* Creating an app that allows parents to track their child’s bus in real time.
 * Create apps. Design websites. Organize events. Write copy. And more!
 * Hang out with other civic hackers, eat pizza and drink beverages.
 
@@ -87,8 +89,8 @@ We choose projects based on:
 ## Current Projects
 
 Our projects are usually centered around software at some point.
-Those are all listed in our [GitHub Organization](https://github.com/c4hrva).
-There are also non-programming tasks in our "task list" at [http://tasks.c4hrva.us](http://tasks.c4hrva.us)
+Those are all listed in our [GitHub Organization]({{page.github-organization-url}}).
+There are also non-programming tasks in our "task list" at [http://tasks.code4hr.org]({{page.task-list-url}})
 
 
 ## Get Connected
@@ -119,22 +121,22 @@ There are also non-programming tasks in our "task list" at [http://tasks.c4hrva.
 
 * [How to Hack Night Video](http://www.youtube.com/watch?v=ge6AQVG36mQ)
 
-* [Do’s](http://www.codeforamerica.org/2013/01/23/do-this-lessons-from-brigade-year-one/) and [Dont’s](http://www.codeforamerica.org/2013/02/27/lessons-learned-from-brigade-year-one-dont-do-this/)
+* [Do’s](https://www.codeforamerica.org/blog/2013/01/23/do-this-lessons-from-brigade-year-one/) and [Dont’s](https://www.codeforamerica.org/blog/2013/02/27/lessons-learned-from-brigade-year-one-dont-do-this/)
 
 
 ## Get Started
 
 Often you can start getting involved before the first meeting.
 
-* Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.  
+* Look at our Forum for recent topics that you are interested in and would like to reply and contribute to.
 
-* Look at our GitHub open source code repositories. We welcome Pull Requests (mods to our code).  [Our Github](https://github.com/Code4HR)
+* Look at [our GitHub]({{page.github-organization-url}}) open source code repositories. We welcome Pull Requests (mods to our code).
 
-* [Learn how to use GitHub](https://guides.github.com/activities/hello-world/)
+* [Learn how to use GitHub](https://guides.github.com/activities/hello-world/).
 
-* [Learn how to use the Git version control protocol](http://try.github.io)
+* [Learn how to use the Git version control protocol](http://try.github.io).
 
-* Learn how the Web works: Read [Basics of Web API's](https://zapier.com/learn/apis/#toc)
+* Learn how the Web works. Read [Basics of Web API's](https://zapier.com/learn/apis/#toc).
 
 * Learn to Code. This is a huge topic that we will only touch on. Coding is a lifelong journey, but something anyone can learn through persistent practice, just like learning Spanish... it's something you can't just do an hour or two a month and expect to be fluent at. That being said, if you're interested in software development, the web is full of excellent, free and (some) paid resources for learning. We focus primarily on web sites and applications first (rather then iOS Apps or Android Apps, because *everyone* can use a web app). The web is made up of HTML, CSS, and JavaScript.  Everyone should know HTML and CSS basics before diving into "backend" languages like Python, Ruby, or JavaScript. Google is your friend. The brigade is not a place to get code training, but we're all hear to help each other find the answers were seeking. Some random learning resources:
   * [Local User Group: HR .NET User Group - HRNUG](http://www.hrnug.org)
@@ -146,9 +148,9 @@ Often you can start getting involved before the first meeting.
   * [https://github.com/maxogden/art-of-node#the-art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node) - Art of Node.js
 
 * Learn to License.  Since civic hacking starts with open source software and usually encompasses free software as well, you'll need to understand the myriad of software licenses out there and how to apply them to your work. We prefer and default to [MIT license](http://choosealicense.com/licenses/mit/). Some learning resource suggestions:
-  * Easy way to quickly pick a license - http://choosealicense.com
-  * [Various Licenses and Comments About Them] (https://www.gnu.org/licenses/license-list.html)
-  * [How to Choose a License for Your Own Work] (https://www.gnu.org/licenses/license-recommendations.html)
+  * Easy way to quickly pick a license - [http://choosealicense.com](http://choosealicense.com)
+  * [Various Licenses and Comments About Them](https://www.gnu.org/licenses/license-list.html)
+  * [How to Choose a License for Your Own Work](https://www.gnu.org/licenses/license-recommendations.html)
 
 
 * Web Hosting Resources
